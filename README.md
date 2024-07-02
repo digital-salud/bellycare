@@ -90,6 +90,6 @@ Asegúrate de reemplazar los valores <URL_HERE> con las URLs correctas de tu pro
 
 ## Contacto 📧
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de [luis.barreto.marin@gmail.com].
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de [digitalsalud4@gmail.com].
 
 ¡Gracias por tu interés en BellyCare! Esperamos que esta aplicación sea una herramienta valiosa para todas las mujeres embarazadas en su camino hacia un embarazo saludable y feliz. ❤️
